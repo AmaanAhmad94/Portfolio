@@ -38,7 +38,7 @@ export const profile = {
   profileImage,
   resume: resumePdf,
   socials: {
-    github: 'https://github.com/amaanahmad',
+    github: 'https://github.com/amaanahmad94',
     linkedin: 'https://linkedin.com/in/amaan-ahmad90794a32a',
     instagram: 'https://www.instagram.com/__amaan1__/',
     x: 'https://x.com/amaan__ahmad',
@@ -47,7 +47,7 @@ export const profile = {
     codechef: 'https://www.codechef.com/users/amaanahmad',
     codeforces: 'https://codeforces.com/profile/amaanahmad',
     geeksforgeeks: 'https://auth.geeksforgeeks.org/user/amaanahmad',
-    portfolio: 'https://amaanahmad.dev',
+    portfolio: 'https://portfolio-vert-eta-85.vercel.app/',
     
   },
   stats: [

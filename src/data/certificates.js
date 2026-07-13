@@ -5,29 +5,25 @@ import cert3 from '../assets/images/certificate-3.svg';
 export const certificates = [
   {
     id: 1,
-    title: 'Full Stack Web Development',
-    issuer: 'Online Platform',
-    date: 'Jan 2025',
-    image: cert1,
-    viewUrl: '#',
-    downloadUrl: '#',
-  },
+  title: 'DevPortfolio',
+  category: 'Frontend',
+  description: 'A premium personal portfolio website...',
+  image: project1,
+  tech: ['React', 'Vite', 'Tailwind CSS', 'Framer Motion'],
+  githubUrl: 'https://github.com/AmaanAhmad94/Portfolio',
+  liveUrl: 'https://portfolio-vert-eta-85.vercel.app/',
+}
+  ,
   {
-    id: 2,
-    title: 'Data Structures & Algorithms',
-    issuer: 'Coding Platform',
-    date: 'Aug 2024',
-    image: cert2,
-    viewUrl: '#',
-    downloadUrl: '#',
-  },
-  {
-    id: 3,
-    title: 'Cloud Fundamentals',
-    issuer: 'Cloud Provider',
-    date: 'Mar 2024',
-    image: cert3,
-    viewUrl: '#',
-    downloadUrl: '#',
-  },
+    
+  id: 2,
+  title: 'Zomato Clone', // or rename to your Zomato Clone title
+  category: 'Full Stack',
+  description: 'A full-stack food delivery clone...',
+  image: project2,
+  tech: ['React', 'Node.js', 'Express', 'MongoDB'],
+  githubUrl: 'https://github.com/AmaanAhmad94/Zomato-Clone',
+  liveUrl: 'https://zomato-clone-git-main-amaan15.vercel.app/',
+}
+  
 ];
